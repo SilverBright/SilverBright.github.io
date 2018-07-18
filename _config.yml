@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Let today be the start of something new!
 header-img: img/home-bg.png
 email: barbara.m.washington@gmail.com
 copyright_name: SilverBright
 description: > # this means to ignore newlines until "baseurl:"
-  
+  New Beginnings...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SilverBright
