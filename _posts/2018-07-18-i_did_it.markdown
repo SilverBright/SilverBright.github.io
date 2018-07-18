@@ -1,0 +1,26 @@
+---
+layout: post
+title:      "I Did It!!!"
+date:       2018-07-18 17:01:33 +0000
+permalink:  i_did_it
+---
+
+
+After two plus weeks of repeatedly watching videos, experimenting with scraping a half-dozen websites, and banging my head a lot, I have finally completed my CLI project which showcases the top 20 books sold in fiction and non-fiction on Amazon for a specific week. Though FAR from perfect, the app technically works, but may require some re-factoring and tweaking.  
+
+Throughout this process, I gained a better understanding of:
+
+* how classes and methods actually interact together in real time
+* using pry-- everywhere
+* setting up and working in a local environment using [Sublime Text](https://www.sublimetext.com/), [Homebrew](https://brew.sh/), and [rbenv](https://github.com/rbenv/rbenv-installer)
+* how to use [bundler](https://bundler.io/) to make my own ruby gems
+* how to create a new project in github and obtain my own [SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#generating-a-new-ssh-key) 
+* using all the different [git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html), and learning some new ones along the way (git log --pretty=oneline)
+* using my own system Terminal to run my program and successfully debug  (and overcoming the irrational fear that venturing into Terminal will not result in accidentally deleting the entire operation system with the stroke of one arbitrary key)
+* and, lastly, how my brain and body manage the stress of trying to complete my first coding project with uber-newb entry-level coding experience
+
+For me, the biggest takeaway from this project was, as Avi said in his video, write the code you wish you had.  So I did.  It helped organize my thoughts and which direction I wanted to go.  I started out by stubbing super-simple fake code I wish would work, and added in fake data I wish I had.  
+
+To my surprise and delight (ok, shock), the final result was very close to my original ‘vision’.
+
+(Originally posted on 6-20-2018)
