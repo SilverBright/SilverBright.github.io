@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project: Join Tables, Objects, and Relationships, oh my!"
-date:       2018-12-18 23:30:59 +0000
+date:       2018-12-18 18:31:00 -0500
 permalink:  rails_project_join_tables_objects_and_relationships_oh_my
 ---
 
@@ -76,9 +76,6 @@ As you can see, I am a very visual person, and generally need charts and diagram
 I hope this has been useful and informative, and you have gained a better understanding on many-to-many relationships in Rails (specifically, when using has_many :through)!  
 
 Best of luck on your Rails project. 
-
-
-
 
 
 
