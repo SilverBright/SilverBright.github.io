@@ -66,7 +66,7 @@ Now that we understand scope a little better, let’s examine hoisting.
 
 **hoisting**
 
-Here’s my over simplified interpretation of the MDN definition of Hoisting:
+Here’s my over simplified interpretation of the [MDN definition of Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting):
 
 Variable and function declarations are put into memory during the compile phase before it executes any code (thus, hoisted).  It allows you to use a variable or function *before* you declare it in your code.
 
