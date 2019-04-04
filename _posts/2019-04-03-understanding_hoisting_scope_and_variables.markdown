@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Understanding Hoisting, Scope, and Variables"
-date:       2019-04-04 00:33:28 +0000
+date:       2019-04-03 20:33:29 -0400
 permalink:  understanding_hoisting_scope_and_variables
 ---
 
 
-#**What is hoisting & scope?**
+**What is hoisting & scope?**
 
 **scope**
 
