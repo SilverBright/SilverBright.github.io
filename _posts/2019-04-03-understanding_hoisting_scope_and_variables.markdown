@@ -120,7 +120,7 @@ Note that `name` exists only inside the scope of its block, and will give us an 
 
 **const**
 
-Const values cannot be re-assigned once they are defined.  Because of this, every const declaration must be initialized at the time of declaration.
+`const` values cannot be re-assigned once they are defined.  Because of this, every `const` declaration must be initialized at the time of declaration.
 
 ```
 const kitty = "Luke Skywhisker";  // valid
